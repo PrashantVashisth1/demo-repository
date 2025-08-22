@@ -2,8 +2,7 @@ const addFunction = function(a, b){
     return a+b;
 }
 const subractFunction = function(a, b){
-    let result=a-b;
-    return result;
+    return a-b;
 }
 const multiplyFunction = function(a, b){
     let result=a*b;
